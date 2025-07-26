@@ -271,6 +271,18 @@
   .btn-verde:hover {
     background-color: #218838;
   }
+
+  @media (max-width: 1024px) {
+    .grid-container {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .grid-container {
+      grid-template-columns: 1fr;
+    }
+  }
   
  /** Grid 02 ***/
 
@@ -311,6 +323,22 @@
     font-size: 0.95rem;
     color: #666;
   }
+
+  @media (max-width: 1024px) {
+    .grid__container__dos {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .grid__container__dos {
+      grid-template-columns: 1fr;
+    }
+  }
+
+
+
+
   
 
 
