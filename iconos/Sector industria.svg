@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="manufactura" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 750">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00bf6f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 40px;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" x1="238.64" y1="496.2" x2="284.1" y2="496.2"/>
+  <line class="cls-1" x1="238.64" y1="556.81" x2="284.1" y2="556.81"/>
+  <line class="cls-1" x1="420.45" y1="496.2" x2="465.9" y2="496.2"/>
+  <line class="cls-1" x1="420.45" y1="556.81" x2="465.9" y2="556.81"/>
+  <line class="cls-1" x1="602.26" y1="496.2" x2="647.71" y2="496.2"/>
+  <line class="cls-1" x1="602.26" y1="556.81" x2="647.71" y2="556.81"/>
+  <polygon class="cls-1" points="26.54 647.71 26.54 411.53 70.09 102.29 142.68 102.29 200.77 382 359.85 278.65 359.85 382 542.2 279.38 542.2 382.69 723.46 278.65 723.46 647.71 404.03 647.71 26.54 647.71"/>
+</svg>

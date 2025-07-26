@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="operadores_infra" data-name="operadores infra" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 750">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00bf6f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 40px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="723.31 725 509.02 725 509.02 672.22 290.27 672.22 290.51 725 26.69 725 26.69 516.01 723.31 516.01 723.31 725"/>
+  <polyline class="cls-1" points="570.33 516.01 590.98 25 679.64 25 698.58 516.01"/>
+  <line class="cls-1" x1="683.53" y1="146.55" x2="585.87" y2="146.55"/>
+  <ellipse class="cls-1" cx="348" cy="359.63" rx="156.31" ry="152.48"/>
+  <line class="cls-1" x1="202.1" y1="305.09" x2="487.81" y2="305.09"/>
+  <line class="cls-1" x1="497.53" y1="404.12" x2="199.15" y2="404.12"/>
+  <path class="cls-1" d="m102.9,516.01V225.82c0-102.09,195.41-111.9,215.56-20.8"/>
+  <g>
+    <line class="cls-1" x1="111.06" y1="590.93" x2="166.8" y2="590.93"/>
+    <line class="cls-1" x1="268.44" y1="590.93" x2="324.18" y2="590.93"/>
+    <line class="cls-1" x1="425.82" y1="590.93" x2="481.56" y2="590.93"/>
+    <line class="cls-1" x1="583.2" y1="590.93" x2="638.94" y2="590.93"/>
+  </g>
+</svg>

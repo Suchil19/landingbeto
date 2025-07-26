@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="educacion" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 750">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00bf6f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 40px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="207.94" y="207.61" width="334.78" height="334.78"/>
+  <rect class="cls-1" x="207.94" y="542.39" width="334.78" height="182.61"/>
+  <line class="cls-1" x1="25.33" y1="542.39" x2="724.67" y2="542.39"/>
+  <line class="cls-1" x1="25.33" y1="390.22" x2="192.72" y2="390.22"/>
+  <line class="cls-1" x1="557.94" y1="390.22" x2="724.67" y2="390.22"/>
+  <polyline class="cls-1" points="527.5 725 664.46 725 664.46 390.22 542.72 390.22"/>
+  <polyline class="cls-1" points="223.15 725 86.2 725 86.2 390.22 207.94 390.22"/>
+  <rect class="cls-1" x="147.07" y="146.74" width="456.52" height="60.87"/>
+  <rect class="cls-1" x="360.11" y="25" width="91.3" height="60.87"/>
+  <line class="cls-1" x1="360.11" y1="40.22" x2="360.11" y2="146.74"/>
+  <rect class="cls-1" x="268.81" y="268.48" width="60.87" height="60.87"/>
+  <rect class="cls-1" x="420.98" y="268.48" width="60.87" height="60.87"/>
+  <rect class="cls-1" x="268.81" y="390.22" width="60.87" height="60.87"/>
+  <rect class="cls-1" x="420.98" y="390.22" width="60.87" height="60.87"/>
+  <rect class="cls-1" x="268.81" y="603.26" width="60.87" height="60.87"/>
+  <rect class="cls-1" x="420.98" y="603.26" width="60.87" height="60.87"/>
+</svg>
