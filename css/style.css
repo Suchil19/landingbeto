@@ -1,0 +1,209 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  body {
+    background: #f5f6f8;
+    color: #333;
+    line-height: 1.6;
+  }
+
+  header {
+    text-align: left;
+    padding: 0rem 3rem;
+    background: #ffffff;
+    color: white;
+  }
+  
+  .logo__section img {
+    height: 70px;
+    width: 320px;
+    margin: 0 0px;
+  }
+
+
+
+  .ikusi__promo{
+    padding: 5rem;
+    background: linear-gradient(to bottom, #033f5f , #1717173b), url("../img/Header\ workforce\ password\ m\ LP.jpg") center no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  @media (max-width: 980px) {
+    .ikusi__promo {
+      background-size: cover;
+      background-position: center top;
+      background-repeat: no-repeat;
+      padding: 1.5rem;
+    }
+  }
+  
+  .contenedor__titulo {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .promo-left,
+  .promo-right {
+    flex: 1 1 400px;
+    padding: 1rem;
+  }
+  
+  .promo-left h2 {
+    font-size: 2.5rem;
+    color: #fff;
+  }
+  
+  .promo-left p {
+    margin: 1rem 0;
+    color: #02e1b8;
+  }
+  
+  .security-graphic img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .promo-right h3 {
+    font-size: .9rem;
+    color: #0f0f0f;
+  }
+  
+  form {
+    margin: 0 auto;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 20px;
+    border-top: 10px solid #00a04e;
+  }
+
+  form p{
+    margin: 1rem 0;
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form input[type="tel"] {
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  form label {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    color: #444;
+  }
+  
+  form button {
+    background-color: #00a04e;
+    color: white;
+    padding: 0.8rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 768px) {
+    .contenedor__titulo {
+      flex-direction: column;
+    }
+  }
+  
+
+  /*** Video ***/
+  .video-section {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f8f9fb;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .video-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #222;
+  }
+  
+  .video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 ratio */
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .video-wrapper video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .brands {
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .brands img {
+    max-height: 40px;
+    object-fit: contain;
+  }
+  
+
+  /*** Seccion texto ***/
+  .ikusi-password-management {
+    background-color: #23374b; /* fondo oscuro */
+    color: #ffffff;
+    padding: 2rem 1rem;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .ikusi-password-management .container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .ikusi-password-management h2 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #ffffff; /* acento azul IKUSI */
+  }
+  
+  .ikusi-password-management p {
+    font-size: 1.8rem;
+    line-height: 1.6;
+    color: #e0e0e0;
+  }
+  
+  @media (max-width: 600px) {
+    .ikusi-password-management h2 {
+      font-size: 1.4rem;
+    }
+  
+    .ikusi-password-management p {
+      font-size: 0.95rem;
+    }
+  }
+  
