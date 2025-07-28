@@ -692,3 +692,39 @@ color: #fff !important;
     width: 100px;
   }
 }
+
+
+
+.video__wrapper__section {
+  position: relative;
+  width: 33%;
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video__wrapper__section video {
+  width: 100%;
+  height: auto;
+  border-radius: 8px; /* opcional para estilizar */
+}
+
+@media (max-width: 600px) {
+  .video__wrapper__section {
+    position: relative;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .video__wrapper__section video {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; /* opcional para estilizar */
+  }
+}
